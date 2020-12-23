@@ -1,0 +1,8 @@
+site_name: "demoapp2"
+site_description: "App De Demonstra\u00e7\u00e3o"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "demoapp2"
+  description: "App De Demonstra\u00e7\u00e3o"
+  annotations:
+    github.com/project-slug: "diego-alves/mydemoapp"
+    backstage.io/techdocs-ref: github:https://github.com/diego-alves/mydemoapp
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "diego-alves"
